@@ -12,8 +12,8 @@ Al crear un catkin workspace, entra al directorio src.
 Clonar los siguientes repositorios para tener el modelo del UR5 y el gripper respectivamente. 
 
   ```
-  $ git clone https://github.com/utecrobotics/ur5
-  $ git clone https://github.com/utecrobotics/robotiq
+  $ git clone https://github.com/ros-industrial/universal_robot
+  $ git clone https://github.com/ros-industrial/robotiq
   ```
   
 Construir usando catkin_make
