@@ -23,3 +23,8 @@ Construir usando catkin_make
   $ catkin_make
   ```
 
+En caso se use RDS, cada ves que se abra el terminal deberá correr
+
+  ```
+  $ source project_ws/devel/setup.bash
+  ```
